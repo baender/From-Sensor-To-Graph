@@ -2,7 +2,7 @@
 
 **readme under development, but please go ahead** :smile:
 
-Open educational resources (OER) for the development of an environmental data acquisition systems -- a hardware/software hybrid.
+Open educational resources (OER) for the development of an environmental data acquisition systems — a hardware/software hybrid.
 
 The aim of this project is to provide knowledge in hardware and software development using the example of an environmental data acquisition system with a very wide scope. Interested individuals and institutions are invited to contribute!
 
