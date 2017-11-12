@@ -9,11 +9,15 @@ The aim of this project is to provide knowledge in hardware and software develop
 ## General thoughts
 
 Environmental data are getting more and more in the focus of society as they allow us to assess if, and how, we influence our direct and indirect surroundings and possible feedbacks. Depending on the area of interest, the type of data can vary strongly, e.g. noise level and air quality for concentrated urban environments, or precipitation and soil moisture for wide-spread rural environments.
+
 A comprehensive analysis relies heavily on an adequat spatio-temporal distribution of data sources in order to describe how patterns develop and vary over space and time. In order to address this, the target of this OER project is a sophisticated environmental data acquisition system.
 
 ## What makes this project different from others?
 
-There are plenty of projects out there that work on similar things like weather stations. For all of which I have seen, the aim is to have a running system that measures the wished quantities. However, having such a system deployed in the field, without WiFi, Bluetooth or cable, and no access to the power grid, is a very different issue. Also, such projects do not focus on the system maintenance and the importance of data integrity regarding the data analysis. What happens, when you exchange a defect sensor or you observe changes in your local environment (a new building next to wind speed measurement, or recent clear-cutting of your forest). A sophisticated system needs to be able to incorporate these information into the data in order to make an analysis possible.
+There are plenty of projects out there that work on similar things like weather stations. For all of which I have seen, the aim is to have a running system that measures the wished quantities.
+
+However, having such a system deployed in the field, without WiFi, Bluetooth or cable, and no access to the power grid, is a very different issue. Also, such projects do not focus on the system maintenance and the importance of data integrity regarding the data analysis. What happens, when you exchange a defect sensor or you observe changes in your local environment (a new building next to wind speed measurement, or recent clear-cutting of your forest). A sophisticated system needs to be able to incorporate these information into the data in order to acount for that during the analysis.
+
 In short: the dedicated focus on data quality and integrity, deployed system maintenance, and the complete chain from the sensor until the graph, make this project different.
 
 ## Scope of project
